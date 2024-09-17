@@ -1,4 +1,4 @@
-Drone-Based Surveillance for Mango Orchard Health Monitoring
+# Drone-Based Surveillance for Mango Orchard Health Monitoring
 Overview
 This project leverages drone technology and machine learning to monitor mango orchards in real-time. The system captures aerial footage using a drone-mounted camera, processes the video into individual frames, and then classifies the health of mango trees based on the detected diseases of their leaves. The project uses Python, OpenCV, and TensorFlow with EfficientNetB0 for the disease classification.
 
