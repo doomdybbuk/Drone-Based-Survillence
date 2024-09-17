@@ -15,12 +15,4 @@ TensorFlow/Keras (for model training and classification)
 EfficientNetB0 (pre-trained model for image classification)
 Drone camera for footage capturing
 Dataset: Mango Leaf Disease Dataset
-## Project Structure
-bash
-Copy code
-.
-├── drone_surveillance.py         # Main script to process video and extract frames
-├── frame_processing.py           # Script to classify extracted frames
-├── models/                       # Folder containing the trained EfficientNetB0 model
-├── video_frames/                 # Folder where extracted video frames are stored
-└── README.md                     # This README file
+
